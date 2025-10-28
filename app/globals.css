@@ -4,7 +4,7 @@
 
 
 :root {
-  --background: #ffffff;
+  --background: #fdfdff;
   --foreground: #171717;
 }
 
@@ -44,4 +44,10 @@ a {
   html {
     color-scheme: dark;
   }
+}
+
+.light-text {
+  
+  color: #8E8E8E;
+  font-size: 14px;
 }
